@@ -1,0 +1,44 @@
+.app {
+  min-height: 100vh;
+  width: 100%;
+  max-width: 1440px;
+  margin: auto;
+}
+.container {
+  padding: 20px 50px;
+}
+.header {
+  padding: 20px 30px;
+  background-color: #39aebc;
+  display: flex;
+  align-items: center;
+}
+.header > h1 {
+  color: white;
+  margin-right: 25px;
+  font-size: 25px;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  width: 30px !important;
+  height: 30px !important;
+  color: white;
+  font-weight: bold !important;
+}
+.div__container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #99999998;
+  width: 100vw;
+  height: 100vh;
+}
+.div__container > button {
+  margin-top: 8%;
+  margin-left: 10%;
+  outline: none;
+  border: 2px solid white;
+  background-color: #99999900;
+  padding: 10px 20px;
+  color: #fdfdfd;
+  font-size: 18px;
+}
